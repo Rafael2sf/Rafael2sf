@@ -7,4 +7,3 @@ My name is Rafael Fernandes, I'm 19 years old. Born and kept at Lisbon, Portugal
   <img height="144em" src="https://github-readme-stats.vercel.app/api?username=Rafael2sf&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   <img height="144em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael2sf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-![snake gif](https://github.com/Rafael2sf/Rafael2sf/blob/output/github-contribution-grid-snake.svg)
