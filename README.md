@@ -15,7 +15,6 @@ I am currently studying programming at 42 lisbon, wich has been a great experien
 <div align="center">
   <img src=".github\logo-git.svg" height="42px" alt="GIT"/>
   <img src=".github\logo-github.svg" height="42px" alt="GITHUB"/>
-  <img src=".github\logo-nodejs.svg" height="42px" alt="NODEJS"/>
   <img src=".github\logo-vscode.svg" height="42px" alt="VISUAL STUDIO CODE"/>  
   <img src=".github\logo-discord.svg" height="42px" alt="DISCORD"/>
   <img src=".github\logo-slack.svg" height="42px" alt="SLACK"/>
