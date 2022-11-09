@@ -1,33 +1,59 @@
-<div align="center">
-  <h1> Hi there 👋 </h1>
+<!-- Header -->
+<div align="right">
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&align=left)](https://www.google.com)
+
+<div align="right">
+  <h3 align="left" width=50px>
+    @ Rafael Fernandes
+  </h3>
+</div>
+<p align="right">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+developer;Hello+there+%F0%9F%91%8B;Student+at+42lisboa;Welcome+to+my+GitHub+page!;&center=true&width=400&height=45&color=6e6ed3&vCenter=true&size=20"></a>
+</p>
 </div>
 
-My name is Rafael Fernandes, I am 20 years old, I live at Sintra, Lisbon.
-I am currently studying programming at 42 lisbon, wich has been a great experience so far. You can check some of my projects in my repositories, enjoy your stay!
+![MasterHead](https://giffiles.alphacoders.com/211/211748.gif)
 
-## Languages
-![](https://img.shields.io/badge//-C-1?style=square&logo=c&logoColor=white&color=9cf)
-![](https://img.shields.io/badge//-JS-1?style=square&logo=javascript&logoColor=white&color=9cf)
-![](https://img.shields.io/badge//-HTML-1?style=square&logo=html5&logoColor=white&color=9cf)
-![](https://img.shields.io/badge//-CSS-1?style=square&logo=css3&logoColor=white&color=9cf)
+<!-- Body -->
 
-## Tools
-<div align="center">
-  <img src=".github\logo-git.svg" height="42px" alt="GIT"/>
-  <img src=".github\logo-github.svg" height="42px" alt="GITHUB"/>
-  <img src=".github\logo-vscode.svg" height="42px" alt="VISUAL STUDIO CODE"/>  
-  <img src=".github\logo-discord.svg" height="42px" alt="DISCORD"/>
-  <img src=".github\logo-slack.svg" height="42px" alt="SLACK"/>
-  <img src=".github\logo-bash.svg" height="42px" alt="BASH"/>
-</div >
+## ⚡ Skills
 
-## Statistics
+<div align="left">
+  <img src=".github\git.png" height="64px" alt="git"/>
+  <img src=".github\linux.png" height="64px" alt="linux"/>
+  <img src=".github\docker.png" height="64px" alt="docker"/>
+</div>
+  <p> Hello, my name is Rafael Fernandes. I am currently learning programming at 42lisboa, i've learned a bit about everything so far, but mostly, designing software and creating solutions with lower level code using C/C++, which allowes me to quicky learn and adapt to more modern and abstract languagues. </p>
+<div align="right">
+  <img src=".github\bash.png" height="64px" alt="bash"/>
+  <img src=".github\c.png" height="64px" alt="c"/>
+  <img src=".github\cpp.png" height="64px" alt="cpp"/>
+</div>
+  <p> This being said, right now most of my projects are in C/C++, but I am looking to increase my portfolio soon. Obviously, feel free to check my projects.
+  
+##
+  
+### Some more tools I've played around with :
 
-<div align="center">
-  <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael2sf&langs_count=3&theme=dracula"/>
-  <img height="192px" src="https://github-readme-stats.vercel.app/api?username=Rafael2sf&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+<br>
+
+<!-- github statistics -->
+## 🗠 GitHub
+
+<div align="center" height=100px>
+	<img width=32% src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael2sf&&theme=tokyonight" alt="Rafael2sf"/>
+	<img width=32% src="https://github-readme-stats.vercel.app/api?username=Rafael2sf&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+	<img width=32% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael2sf&langs_count=3&theme=dracula"/>
 </div>
 
-<br />
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Rafael2sf&&style=flat-square)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rafael2sf&theme=rogue&hide_border=true&hide_title=true)](https://github.com/Rafael2sf)
+[![Profile views counter](https://komarev.com/ghpvc/?username=Rafael2sf&&style=flat-square)](https://github.com/Rafael2sf)
