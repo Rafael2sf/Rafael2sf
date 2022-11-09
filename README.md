@@ -1,16 +1,10 @@
 <!-- Header -->
 <div align="right">
+	
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&align=left)](https://www.linkedin.com/in/rafael-fernandes-9a615a18b/)
 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&align=left)](https://www.google.com)
-
-<div align="right">
-  <h3 align="left" width=50px>
-    @ Rafael Fernandes
-  </h3>
-</div>
-<p align="right">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+developer;Hello+there+%F0%9F%91%8B;Student+at+42lisboa;Welcome+to+my+GitHub+page!;&center=true&width=400&height=45&color=6e6ed3&vCenter=true&size=20"></a>
-</p>
+</div align="left">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Rafael+Fernandes;Software+developer;Hello+there+%F0%9F%91%8B;Student+at+42lisboa;Welcome+to+my+GitHub+page!;&center=true&width=400&height=45&color=6e6ed3&vCenter=true&size=20"></a>
 </div>
 
 ![MasterHead](https://giffiles.alphacoders.com/211/211748.gif)
@@ -20,17 +14,17 @@
 ## ⚡ Skills
 
 <div align="left">
-  <img src=".github\git.png" height="64px" alt="git"/>
-  <img src=".github\linux.png" height="64px" alt="linux"/>
-  <img src=".github\docker.png" height="64px" alt="docker"/>
+ 	<img src=".github\git.png" height="64px" alt="git"/>
+ 	<img src=".github\linux.png" height="64px" alt="linux"/>
+ 	<img src=".github\docker.png" height="64px" alt="docker"/>
 </div>
-  <p> Hello, my name is Rafael Fernandes. I am currently learning programming at 42lisboa, i've learned a bit about everything so far, but mostly, designing software and creating solutions with lower level code using C/C++, which allowes me to quicky learn and adapt to more modern and abstract languagues. </p>
+	<p> Hello, my name is Rafael Fernandes. I am currently learning programming at 42lisboa, i've learned a bit about everything so far, but mostly, designing software and creating solutions with lower level code using C/C++, which allowes me to quicky learn and adapt to more modern and abstract languagues. </p>
 <div align="right">
-  <img src=".github\bash.png" height="64px" alt="bash"/>
-  <img src=".github\c.png" height="64px" alt="c"/>
-  <img src=".github\cpp.png" height="64px" alt="cpp"/>
+	<img src=".github\bash.png" height="64px" alt="bash"/>
+	<img src=".github\c.png" height="64px" alt="c"/>
+	<img src=".github\cpp.png" height="64px" alt="cpp"/>
 </div>
-  <p> This being said, right now most of my projects are in C/C++, but I am looking to increase my portfolio soon. Obviously, feel free to check my projects.
+	<p> This being said, right now most of my projects are in C/C++, but I am looking to increase my portfolio soon. Obviously, feel free to check my projects.
   
 ##
   
