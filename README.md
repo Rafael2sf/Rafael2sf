@@ -18,7 +18,7 @@
  	<img src=".github\linux.png" height="64px" alt="linux"/>
  	<img src=".github\docker.png" height="64px" alt="docker"/>
 </div>
-	<p> Hello, my name is Rafael Fernandes. I am currently learning programming at 42lisboa, i've learned a bit about everything so far, but mostly, designing software and creating solutions with lower level code using C/C++, which allowes me to quicky learn and adapt to more modern and abstract languagues. </p>
+	<p> Hello, my name is Rafael Fernandes. I am currently learning programming at 42lisboa. I've learned a bit about everything so far, but mostly, designing software and creating solutions with lower level code using C/C++, which allows me to quickly learn and adapt to more modern and abstract languagues. </p>
 <div align="right">
 	<img src=".github\bash.png" height="64px" alt="bash"/>
 	<img src=".github\c.png" height="64px" alt="c"/>
