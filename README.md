@@ -41,13 +41,12 @@
 <br>
 
 <!-- github statistics -->
-## 🗠 GitHub
+## GitHub
 
 <div align="center" height=100px>
 	<img width=32% src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael2sf&&theme=tokyonight" alt="Rafael2sf"/>
-	<img width=32% src="https://github-readme-stats.vercel.app/api?username=Rafael2sf&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
 	<img width=32% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael2sf&langs_count=3&theme=dracula"/>
+	<img width=32% src="https://github-readme-stats.vercel.app/api?username=Rafael2sf&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
 </div>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rafael2sf&theme=rogue&hide_border=true&hide_title=true)](https://github.com/Rafael2sf)
 [![Profile views counter](https://komarev.com/ghpvc/?username=Rafael2sf&&style=flat-square)](https://github.com/Rafael2sf)
