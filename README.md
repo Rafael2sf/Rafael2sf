@@ -4,7 +4,7 @@
 
 rafaelsfernand@gmail.com
 <br><br>
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&align=left)](https://www.linkedin.com/in/rafael-fernandes-9a615a18b/)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&align=left)](https://www.linkedin.com/in/rafernan-/)
 
 </div align="left">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Rafael+Fernandes;Software+developer;Hello+there+%F0%9F%91%8B;Student+at+42lisboa;Welcome+to+my+GitHub+page!;&center=true&width=400&height=45&color=6e6ed3&vCenter=true&size=20"></a>
