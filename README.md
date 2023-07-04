@@ -1,6 +1,9 @@
 <!-- Header -->
+
 <div align="right">
-	
+
+rafaelsfernand@gmail.com
+<br><br>
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&align=left)](https://www.linkedin.com/in/rafael-fernandes-9a615a18b/)
 
 </div align="left">
